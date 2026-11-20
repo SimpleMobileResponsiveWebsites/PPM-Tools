@@ -29,4 +29,4 @@
 pip install streamlit pandas
 
 # Run it
-streamlit run app.py
+streamlit run demo-ppm-tool-1.py
